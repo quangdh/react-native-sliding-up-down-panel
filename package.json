@@ -2,11 +2,11 @@
   "name": "react-native-sliding-up-down-panel",
   "version": "1.0.0",
   "private": false,
-  "url": "https://github.com/Abhijeet-Ashapure/react-native-sliding-up-down-panel.git",
+  "url": "https://github.com/quangdh/react-native-sliding-up-down-panel.git",
   "email": "abhijeetashapure@gmail.com",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Abhijeet-Ashapure/react-native-sliding-up-down-panel.git"
+    "url": "https://github.com/quangdh/react-native-sliding-up-down-panel.git"
   },
   "description": "Sliding up and sliding down panels for android and ios | react native",
   "scripts": {
