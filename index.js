@@ -61,9 +61,9 @@ export default class SlidingPanel extends Component {
 
   constructor(props) {
     super(props);
-    let startHeight = props.startHeight? props.startHeight : 0;
+    sliderPosition = props.sliderPosition? props.sliderPosition : 0;
     this.state = {
-      heightAnim: new Animated.Value(startHeight),
+      heightAnim: new Animated.Value(sliderPosition),
       panResponder: {},
     };
   }
